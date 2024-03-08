@@ -2,6 +2,8 @@ From back4app/nginx
 
 EXPOSE 8080
 
+python-3.10.6
+
 discordbot: python discordbot.py
 
 {
