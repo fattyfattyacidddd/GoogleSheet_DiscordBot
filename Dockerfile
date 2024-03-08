@@ -143,3 +143,6 @@ async def on_message(message):
     
 # Bot起動
 client.run(TOKEN)
+
+discord.py[voice]>=1.4.1
+google-api-python-client>=2.34.0
